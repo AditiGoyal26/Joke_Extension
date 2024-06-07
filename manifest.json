@@ -1,0 +1,13 @@
+{
+    "name": "Dad Joke",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "author": "Aditi Goyal",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": {
+            "128": "logo.png"
+        }
+    },
+    "permissions": ["activeTab"]
+}
